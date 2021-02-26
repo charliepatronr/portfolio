@@ -503,11 +503,19 @@ header {
 .portfolio-item-demo-video {
     display: flex;
     justify-content: center;
+    margin-bottom: 20px;
 }
 
 
 .portfolio__img__ind {
     margin: 0 auto;
     max-height: 900px;
+
+}
+
+.test-master {
+    margin: 0 auto;
+    max-height: 300px;
+    margin-bottom: 35px;
 
 }
